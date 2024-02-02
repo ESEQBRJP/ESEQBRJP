@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Esequiel! A developer from Brazil. <br><br>- 🔭 - 🔭 Currently, I'm working as a developer, coding tests with Cypress and automating processes with Python.<br>- 📚 I'm currently learning FastAPI and becoming fluent in English. <br>- ⚡ In my free time, I code, work out, and read about economics.</p>
+<p align="left">I'm Esequiel! A developer from Brazil. <br><br>- 🔭 Currently, I'm working as a developer, coding tests with Cypress and automating processes with Python.<br>- 📚 I'm currently learning FastAPI and becoming fluent in English. <br>- ⚡ In my free time, I code, work out, and read about economics.</p>
 
 ###
 

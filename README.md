@@ -2,10 +2,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <p align="left">I'm Esequiel! A developer from Brazil. <br><br>- 🔭 I’m working as developer<br>- 📚 I'm currently learning FastAPI and becoming fluent in English. <br>- ⚡ In my free time, I code, work out, and read about economics.</p>
 
 ###

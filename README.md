@@ -2,17 +2,23 @@
 
 ###
 
-<p align="left">I'm Esequiel! A developer from Brazil. <br><br>- 🔭 Currently, I'm working as a developer, coding tests with Cypress and automating processes with Python.<br>- 📚 I'm currently learning FastAPI and becoming fluent in English. <br>- ⚡ In my free time, I code, work out, and read about economics.</p>
+# Olá, sou o Esequiel 👋
+
+Atualmente atuo como DBA Júnior, sendo responsável por automações e observabilidade de mais de 100 bancos de dados.
+
+Tenho experiência com:
+
+* automações em Python
+* desenvolvimento JavaScript
+* análise de sistemas
+* suporte N1/N3
+* administração de bancos PostgreSQL e Oracle
+
+Atualmente, estou aprofundando meus estudos em arquitetura de software, observabilidade e empreendedorismo.
 
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esequiel-rosario-89275b183/)
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ESEQBRJP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
